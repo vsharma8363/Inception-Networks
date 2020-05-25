@@ -1,12 +1,4 @@
-# Building the Vehicle Recognition Project
-
-1. The Inception Module in Tensorflow
-2. Building/Sourcing the dataset
-3. Constructing the model
-4. Training and improving the accuracy
-5. Final Testing
-6. Exporting the model
-7. Running via Android Studio (OpenCV + Tensorflow libraries)
+# Inception Networks Scratchpad
 
 ## 1. The Inception Module
 
